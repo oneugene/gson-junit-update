@@ -28,7 +28,6 @@
 
   <modules>
     <module>gson</module>
-    <module>test-jpms</module>
     <module>test-graal-native-image</module>
     <module>test-shrinker</module>
     <module>extras</module>
